@@ -1,1 +1,1 @@
-This is from BCG AI simulation program.
+This is from Boston Consulting Group (BCG) AI simulation program.
