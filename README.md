@@ -1,1 +1,1 @@
-This is from Boston Consulting Group (BCG) AI simulation program..
+This was a virtual program from Boston Consulting Group (BCG) on the Forage platform, that introduced me to AI engineering in the financial field. I learned about data collection, processing, financial analysis, chatbot development, and conversational AI. It gave me hands-on experience in leveraging generative AI to build tools for finance.
